@@ -8,7 +8,8 @@ This is just a front-End.
 ## 🌐 Website Sections
 
 - 🏠 Homepage with introduction and vision
-![Home Page](https://github.com/rafiulislam89/emdadul_ulim_madrasah/blob/master/assets/img/m1.PNG)
+![Home Page]<p align="center"><img src="images/m1.png"  height="auto" width="100%"></p>
+
 
 - 📅 Events & Announcements
 - 👳‍♂️ Teacher and Staff Profiles
