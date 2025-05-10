@@ -3,7 +3,7 @@
 
 A fully responsive website for **Emdadul Ulum Madrasa**, built to showcase information about events, courses, teachers, and contact details.
 
-![Madrasa Website Screenshot](assets/img/screenshot-homepage.jpg)
+![Madrasa Website Screenshot](assets/img/m1.png)
 This is just a front-End.
 ## 🌐 Website Sections
 
